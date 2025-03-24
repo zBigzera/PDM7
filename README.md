@@ -8,3 +8,22 @@
 
 Para ver como realizar o deploy no github pages acesse [/deploy.md](/DEPLOY.md)
 Para ver como o quiz funciona acesse [/quiz.md](/QUIZ.md)
+
+## Como clonar este repositório
+
+Precisa instalar o Node 20 (v20.5.1)
+Instale o git
+
+```sh
+git clone https://github.com/PDM7/PDM7.git
+npm install
+npm run build
+
+``` 
+
+Para rodar localmente
+
+```
+npm run dev
+//acesse na porta 5173
+``` 
