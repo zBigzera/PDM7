@@ -6,5 +6,5 @@
 > Baseado em Minimal static [SvelteKit](https://kit.svelte.dev/) set-up made deployable to [GitHub Pages](https://metonym.github.io/sveltekit-gh-pages/). Este template utiliza tecnologia GithubPages.  
 > Agradecimentos a [spences10/svelte-quiz](https://github.com/spences10/svelte-quiz/).  
 
-Para ver como realizar o deploy no github pages acesse [deploy.md]  
-Para ver como o quiz funciona acesse [quiz.md]  
+Para ver como realizar o deploy no github pages acesse [/deploy.md](/DEPLOY.md)
+Para ver como o quiz funciona acesse [/quiz.md](/QUIZ.md)
